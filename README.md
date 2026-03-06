@@ -6,7 +6,7 @@ The **HyperSniper Backtester & Live Predictor** is an advanced analytical tool w
 
 The main goals of the program are:
 
-1. **Strategy Verification (Backtesting)**: Allowing for the testing of trading strategies on historical data with 1:1 precision compared to Python models. This enables a quick assessment of Profitability (PnL) and Efficiency (Hit Rate) before committing real capital.
+1. **Strategy Verification (Backtesting)**: Allowing for the testing of trading strategies on historical data . This enables a quick assessment of Profitability (PnL) and Efficiency (Hit Rate) before committing real capital.
 2. **Live Prediction**: Providing real-time buy/sell signals (LONG/SHORT) along with analytical justification (Score) and information on blocking filters.
 3. **Analytics Automation**: Automatically fetching market data (OHLCV), investor activity (Open Interest), and position holding costs (Funding Rates).
 
@@ -103,7 +103,7 @@ The system uses the `TDataFetchManager` class, which handles:
 
 - **TFDMemTable**: All operational data is stored in RAM within FireDAC structures, ensuring lightning-fast access.
 - **Local Cache**: Data is cached in the `cache_data/` folder in CSV or JSON format to minimize the number of API queries during program restarts.
-- **Unix Timestamp**: The system operates on milliseconds (Unix MS), ensuring full compatibility with the Python model.
+- **Unix Timestamp**: The system operates on milliseconds (Unix MS).
 
 ---
 
@@ -120,5 +120,5 @@ The module implementing historical simulation.
 
 ### Key Elements
 
-- **Parity Synchronization**: Implementation of the `minutes_to_4h_close` formula identical to the Python model, ensuring 100% reproducibility of results.
+- **Parity Synchronization**: Implementation of the `minutes_to_4h_close`, ensuring 100% reproducibility of results.
 - **Memory Management**: Automatic clearing of signal lists and temporary tables to avoid memory leaks during long tests.
