@@ -1,0 +1,186 @@
+{
+    "BTC/USDT": {
+        "vol_climax_mult": 2.5,
+        "score_threshold_trend": 7,
+        "score_threshold_range": 8,
+        "session_start": 8,
+        "session_end": 20,
+        "extreme_score": 16
+    },
+    "ETH/USDT": {
+        "vol_climax_mult": 2.5,
+        "score_threshold_trend": 6,
+        "score_threshold_range": 7,
+        "session_start": 13,
+        "session_end": 17,
+        "extreme_score": 16
+    },
+    "BNB/USDT": {
+        "vol_climax_mult": 2.5,
+        "score_threshold_trend": 8,
+        "score_threshold_range": 9,
+        "session_start": 13,
+        "session_end": 17,
+        "extreme_score": 16
+    },
+    "SOL/USDT": {
+        "vol_climax_mult": 2.5,
+        "score_threshold_trend": 8,
+        "score_threshold_range": 9,
+        "session_start": 8,
+        "session_end": 20,
+        "extreme_score": 16
+    },
+    "XRP/USDT": {
+        "vol_climax_mult": 3.0,
+        "score_threshold_trend": 6,
+        "score_threshold_range": 7,
+        "session_start": 13,
+        "session_end": 17,
+        "extreme_score": 16
+    },
+    "ADA/USDT": {
+        "vol_climax_mult": 2.5,
+        "score_threshold_trend": 6,
+        "score_threshold_range": 7,
+        "session_start": 13,
+        "session_end": 17,
+        "extreme_score": 16
+    },
+    "DOT/USDT": {
+        "vol_climax_mult": 3.0,
+        "score_threshold_trend": 7,
+        "score_threshold_range": 8,
+        "session_start": 8,
+        "session_end": 20,
+        "extreme_score": 16
+    },
+    "LINK/USDT": {
+        "vol_climax_mult": 2.5,
+        "score_threshold_trend": 6,
+        "score_threshold_range": 7,
+        "session_start": 13,
+        "session_end": 17,
+        "extreme_score": 16
+    },
+    "DOGE/USDT": {
+        "vol_climax_mult": 2.5,
+        "score_threshold_trend": 6,
+        "score_threshold_range": 7,
+        "session_start": 8,
+        "session_end": 20,
+        "extreme_score": 16
+    },
+    "LTC/USDT": {
+        "vol_climax_mult": 3.5,
+        "score_threshold_trend": 8,
+        "score_threshold_range": 9,
+        "session_start": 13,
+        "session_end": 17,
+        "extreme_score": 16
+    },
+    "UNI/USDT": {
+        "vol_climax_mult": 2.5,
+        "score_threshold_trend": 7,
+        "score_threshold_range": 8,
+        "session_start": 13,
+        "session_end": 17,
+        "extreme_score": 16
+    },
+    "ATOM/USDT": {
+        "vol_climax_mult": 2.5,
+        "score_threshold_trend": 7,
+        "score_threshold_range": 8,
+        "session_start": 13,
+        "session_end": 17,
+        "extreme_score": 16
+    },
+    "NEAR/USDT": {
+        "vol_climax_mult": 2.5,
+        "score_threshold_trend": 6,
+        "score_threshold_range": 7,
+        "session_start": 13,
+        "session_end": 17,
+        "extreme_score": 16
+    },
+    "APT/USDT": {
+        "vol_climax_mult": 3.0,
+        "score_threshold_trend": 6,
+        "score_threshold_range": 7,
+        "session_start": 8,
+        "session_end": 20,
+        "extreme_score": 16
+    },
+    "FET/USDT": {
+        "vol_climax_mult": 2.5,
+        "score_threshold_trend": 8,
+        "score_threshold_range": 9,
+        "session_start": 0,
+        "session_end": 23,
+        "extreme_score": 16
+    },
+    "1000PEPE/USDT": {
+        "vol_climax_mult": 2.5,
+        "score_threshold_trend": 6,
+        "score_threshold_range": 7,
+        "session_start": 8,
+        "session_end": 20,
+        "extreme_score": 16
+    },
+    "SUI/USDT": {
+        "vol_climax_mult": 3.0,
+        "score_threshold_trend": 8,
+        "score_threshold_range": 9,
+        "session_start": 13,
+        "session_end": 17,
+        "extreme_score": 16
+    },
+    "ARB/USDT": {
+        "vol_climax_mult": 3.5,
+        "score_threshold_trend": 7,
+        "score_threshold_range": 8,
+        "session_start": 8,
+        "session_end": 20,
+        "extreme_score": 16
+    },
+    "OP/USDT": {
+        "vol_climax_mult": 3.5,
+        "score_threshold_trend": 8,
+        "score_threshold_range": 9,
+        "session_start": 8,
+        "session_end": 20,
+        "extreme_score": 16
+    },
+    "STX/USDT": {
+        "vol_climax_mult": 2.5,
+        "score_threshold_trend": 6,
+        "score_threshold_range": 7,
+        "session_start": 13,
+        "session_end": 17,
+        "extreme_score": 16
+    },
+    "TIA/USDT": {
+        "vol_climax_mult": 3.5,
+        "score_threshold_trend": 8,
+        "score_threshold_range": 9,
+        "session_start": 8,
+        "session_end": 20,
+        "extreme_score": 16
+    },
+    "WLD/USDT": {
+        "vol_climax_mult": 3.0,
+        "score_threshold_trend": 6,
+        "score_threshold_range": 7,
+        "session_start": 13,
+        "session_end": 17,
+        "extreme_score": 16
+    },
+    "SEI/USDT": {
+        "vol_climax_mult": 2.5,
+        "score_threshold_trend": 6,
+        "score_threshold_range": 7,
+        "session_start": 13,
+        "session_end": 17,
+        "extreme_score": 16
+    }
+}
